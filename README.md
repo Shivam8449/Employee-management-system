@@ -81,3 +81,5 @@ Thanks to the MDN Web Docs for localStorage documentation and usage examples.
 4. **Data Persistence**: Emphasizes how local storage is used to persist data across sessions.
 
 Let me know if you'd like to adjust anything further or add additional details!
+
+Live view:  https://luxury-froyo-8f3de9.netlify.app
